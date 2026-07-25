@@ -149,38 +149,36 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 
 ---
 
-### 📊 Live Analytics & GitHub Metrics
+### 📊 GitHub Profile Metrics & Skill Distribution
 
 <div align="center">
 
-  <!-- Live Badges Bar -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=PrajwalDev01&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/PrajwalDev01?style=for-the-badge&logo=github&color=10b981&label=FOLLOWERS" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/PrajwalDev01?style=for-the-badge&logo=github&color=10b981&label=FOLLOWERS" alt="Followers" />
     <img src="https://img.shields.io/github/stars/PrajwalDev01?style=for-the-badge&logo=github&color=6366f1&label=TOTAL%20STARS" alt="Total Stars" />
   </p>
 
   <br />
 
-  <!-- GitHub Contribution Streak Card -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDev01&theme=tokyonight&hide_border=true&fire=6366F1&ring=6366F1" alt="Prajwal's GitHub Streak" width="90%" />
-  </p>
-
-  <br />
-
-  <!-- Top Languages Cards -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's Top Languages by Repositories" width="48%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's Top Languages by Commits" width="48%" />
-  </p>
-
-  <br />
-
-  <!-- Live Contribution Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDev01&theme=tokyo-night" alt="Prajwal's Contribution Graph" width="100%" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>☕ Primary Tech Stack Distribution</b><br /><br />
+        <img src="https://img.shields.io/badge/Java-45%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/C%2B%2B%20%26%20IoT-15%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/SQL%20%26%20Git-10%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </td>
+      <td width="50%" align="center">
+        <b>⚡ Quick GitHub Highlights</b><br /><br />
+        <img src="https://img.shields.io/badge/Public%20Repos-11-6366F1?style=for-the-badge&logo=github" /><br /><br />
+        <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Main%20Language-Java%2017%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Status-Actively%20Building-10B981?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
