@@ -1,25 +1,23 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
+  <!-- Animated Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,31,99,102,241,236,72,153&height=230&section=header&text=Prajwal%20Yeshyagol&fontSize=52&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Java%20Full-Stack%20Developer%20%7C%20Software%20Development%20Engineer&descAlign=50&descAlignY=65" width="100%" alt="Prajwal Yeshyagol Banner" />
 
-  <!-- Animated Typing SVG Subtitle for Java Full Stack Fresher -->
+  <!-- Animated Typing SVG Subtitle -->
   <a href="https://github.com/PrajwalDev01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=👋+Hi!+I'm+Prajwal+Yeshyagol+–+Java+Full-Stack+Developer;☕+Expertise+in+Java+17%2B%2C+Spring+Boot%2C+REST+APIs+%26+MySQL;💻+Crafting+Modern+Responsive+Web+Frontends;🚀+Actively+Seeking+Full-Time+Software+Engineer+%2F+SDE+Roles" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=👋+Hi!+I'm+Prajwal+Yeshyagol+–+Java+Full-Stack+Developer;☕+Expertise+in+Java+17%2B%2C+Spring+Boot%2C+REST+APIs+%26+MySQL;💻+Building+Modern+Responsive+Full-Stack+Web+Apps;🚀+Open+to+Full-Time+Software+Engineer+%2F+SDE+Roles" alt="Typing Subtitle" />
   </a>
 
   <br />
 
-  <!-- Profile Status & Hirable Badges -->
+  <!-- Status & Info Badges Bar (Only OPEN TO WORK) -->
   <p align="center">
-    <a href="https://github.com/PrajwalDev01">
-      <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%2F%20HIRING-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
-    </a>
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
     <img src="https://img.shields.io/badge/TARGET%20ROLE-JAVA%20FULL%20STACK%20%2F%20SDE-6366F1?style=for-the-badge" alt="Target Role" />
     <img src="https://komarev.com/ghpvc/?username=PrajwalDev01&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <!-- Connect Buttons -->
+  <!-- Social & Contact Buttons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/prajwal-yeshyagol-7621042bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,23 +39,22 @@
 ```yaml
 Candidate: Prajwal Yeshyagol
 Profile: Java Full-Stack Engineer (Fresher)
-Degree: Bachelor of Engineering / Technology (B.E. / B.Tech)
 Core Stack: Java 17+, Spring Boot, Hibernate, MySQL, REST APIs, JavaScript, HTML5, CSS3, Git
 Key Strengths: OOP Principles, Data Structures & Algorithms, Clean Architecture, Database Design
 Looking For: Full-Time Software Engineer / Java Developer / SDE Roles
 Location: India 🇮🇳 (Open to Relocation / Remote)
 ```
 
-- 🎯 **Career Objective:** Dedicated and detail-oriented **Java Full-Stack Fresher** seeking an entry-level Software Development Engineer role to build scalable backend services and intuitive web applications.
-- 💻 **Backend Mastery:** Solid foundation in **Java Core & Advanced (OOP, Multithreading, Collections, Streams)**, **Spring Boot**, **Hibernate/JPA**, and **RESTful API** creation.
-- 🎨 **Frontend Skills:** Proficient in designing responsive, modern user interfaces using **HTML5, CSS3, JavaScript (ES6+)**, and CSS Grid/Flexbox layouts.
-- 📊 **Database & Tools:** Hands-on with **MySQL, Relational Schema Design, SQL queries, JDBC, Git version control, Postman, VS Code, and Eclipse/IntelliJ**.
+- 🎯 **Career Goal:** Passionate **Java Full-Stack Fresher** seeking an entry-level Software Engineer / Java Developer role to design scalable microservices and dynamic user interfaces.
+- ☕ **Backend Capabilities:** Proficient in **Java Core (OOP, Collections, Threads, Streams)**, **Spring Boot**, **Hibernate/JPA**, and **RESTful API** services.
+- 🌐 **Frontend Capabilities:** Skilled in crafting clean, responsive UIs with **HTML5, CSS3, JavaScript (ES6+)**, and CSS Grid/Flexbox layouts.
+- 🗄️ **Database & Tools:** Hands-on with **MySQL, Relational Schema Design, SQL queries, JDBC, Git, Postman, VS Code, and Eclipse/IntelliJ**.
 
 ---
 
 ### 🛠️ Technical Skill Matrix
 
-#### ☕ Backend Development
+#### ☕ Backend Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Java%2017%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -66,7 +63,7 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-#### 🌐 Frontend Development
+#### 🌐 Frontend Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -93,7 +90,7 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 
 ---
 
-### 🚀 Featured Full-Stack & Engineering Projects
+### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
@@ -152,7 +149,7 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 
 ---
 
-### 📊 GitHub Activity & Coding Metrics
+### 📊 Live Analytics & GitHub Metrics
 
 <div align="center">
   <table border="0">
@@ -168,7 +165,7 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalDev01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalDev01&layout=compact&theme=tokyonight&hide_border=true&title_color=6366F1" alt="Prajwal's Top Languages" />
 </div>
 
 ---
@@ -176,7 +173,7 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 ### 📬 Get In Touch
 
 <div align="center">
-  <p>I am actively seeking <b>Java Full-Stack Developer</b> & <b>Software Engineer (Fresher)</b> opportunities.</p>
+  <p>I am actively seeking <b>Java Full-Stack Developer</b> & <b>Software Development Engineer (Fresher)</b> roles.</p>
   <p>
     <a href="https://www.linkedin.com/in/prajwal-yeshyagol-7621042bb" target="_blank">
       <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
