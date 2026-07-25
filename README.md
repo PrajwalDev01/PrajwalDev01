@@ -151,19 +151,38 @@ Location: India 🇮🇳 (Open to Relocation / Remote)
 
 ### 📊 Live Analytics & GitHub Metrics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's Profile Summary" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrajwalDev01&theme=tokyonight" alt="Top Languages by Repositories" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrajwalDev01&theme=tokyonight" alt="Top Languages by Commits" width="48%" />
-</p>
+  <!-- Live Badges Bar -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PrajwalDev01&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/PrajwalDev01?style=for-the-badge&logo=github&color=10b981&label=FOLLOWERS" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/PrajwalDev01?style=for-the-badge&logo=github&color=6366f1&label=TOTAL%20STARS" alt="Total Stars" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDev01&theme=tokyo-night" alt="Prajwal's Contribution Graph" width="100%" />
-</p>
+  <br />
+
+  <!-- GitHub Contribution Streak Card -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDev01&theme=tokyonight&hide_border=true&fire=6366F1&ring=6366F1" alt="Prajwal's GitHub Streak" width="90%" />
+  </p>
+
+  <br />
+
+  <!-- Top Languages Cards -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's Top Languages by Repositories" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrajwalDev01&theme=tokyonight" alt="Prajwal's Top Languages by Commits" width="48%" />
+  </p>
+
+  <br />
+
+  <!-- Live Contribution Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrajwalDev01&theme=tokyo-night" alt="Prajwal's Contribution Graph" width="100%" />
+  </p>
+
+</div>
 
 ---
 
